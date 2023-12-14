@@ -1,8 +1,7 @@
-# Wave Energy Converter Farm Analysis and Prediction
+# WEC-ML-Project
 
 ## Project Overview
 This project focuses on analyzing and predicting the total power output (`Powerall`) of wave energy converter (WEC) farms located in four Australian cities: Adelaide, Sydney, Tasmania, and Perth. The dataset comprises measurements from individual wave energy converters in these farms.
-# WEC-ML-Project
 
 ## Dataset Description
 The dataset contains rows of data for each wave energy converter, with each row consisting of the following elements:
